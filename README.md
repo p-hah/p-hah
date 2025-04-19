@@ -1,5 +1,5 @@
-Patrick Hart | curator / academic 
-Glasgow - Edinburgh - Ankara - Naples - Monterey - Brighton
+- Patrick Hart | curator / academic 
+- Glasgow - Edinburgh - Ankara - Naples - Monterey - Brighton
 - 📫 Reach me at phah@pm.me
 
 <!---
