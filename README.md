@@ -1,4 +1,5 @@
-- Patrick Hart | curator / academic 
+- Patrick Hart
+- curator
 - Glasgow - Edinburgh - Ankara - Naples - Monterey - Brighton
 - 📫 Reach me at phah@pm.me
 
