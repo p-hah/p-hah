@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @p-hah
-- 👀 I’m interested in 
-- 🌱 I’m currently learning emacs, very slowly!
-- 💞️ I’m looking to collaborate on all sorts. Drop me a line.
-- 📫 Reach me at phah@me.com
+REpository for Patrick Hart, curator
+- 📫 Reach me at phah@pm.me
 
 <!---
 p-hah/p-hah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
